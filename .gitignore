@@ -38,3 +38,5 @@ platformio.ini
 .vscode
 src/main_test.cpp
 src/main_test.cpp_
+
+.idea/
